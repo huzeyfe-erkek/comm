@@ -2,7 +2,7 @@
 # Generating RVs from uniformly distribured RV
 #
 # Source: Istanbul Technical University (ITU)
-# TEL514 Modulation and Coding in Wireless Communications Lecture Notes
+#Lecture Notes from TEL514 Modulation and Coding in Wireless Communications
 #------------------------------------------------------------------------------#
 
 # Dependencies
