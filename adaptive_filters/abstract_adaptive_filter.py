@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+#from multipledispatch import dispatch TODO
 import numpy as np
 
 class AbstractAdaptiveFilter(ABC):

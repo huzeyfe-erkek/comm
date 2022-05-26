@@ -2,7 +2,7 @@ import numpy as np
 from scipy.linalg import toeplitz
 from scipy.signal import convolve
 
-def zeroForcing(channelTaps: np.array, desiredLen : int = 0):
+def zeroForcing(channelTaps: np.array, desiredLen : int = 0): # TODO: Change name to ZeroForcingTaps
     '''
     Tap solution from given channel vector. Delay == 0
 
