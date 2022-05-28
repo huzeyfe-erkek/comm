@@ -7,7 +7,7 @@ from scipy import signal as signal
 
 def upsample(x, N):
     '''
-    Upsample given column vector with zero. Following script from scipy can also be used: 
+    Upsample given column vector with zero.
 
     INPUT:
         x       - Column vector
