@@ -14,8 +14,4 @@ class Dfe:
     def tapSolutionMmse(self, channelTaps: np.array):
         # Concatenate FF and FB taps
         t = np.r_[self.b, self.a]
-
-
-
         return
-
