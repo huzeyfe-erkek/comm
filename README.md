@@ -1,4 +1,4 @@
-# Wireless Communications Library
+# Digital Communications Library
 
 Communication library focused on channel equalization. It doesn't have a definite goal and will be updated as needed.
 
